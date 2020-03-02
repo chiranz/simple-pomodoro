@@ -1,0 +1,22 @@
+button:disabled {
+  cursor: not-allowed;
+}
+button {
+  cursor: pointer;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.control {
+  display: inline-flex;
+}
+
+.section {
+  margin: 0 2rem;
+}
